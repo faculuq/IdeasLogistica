@@ -54,8 +54,11 @@
 </nav>
 
   <!-- Inicio -->
+ <!-- Inicio -->
 <header id="Inicio" class="masthead">
-  
+  <div class="container h-100">
+
+    </div>
 </header>
 
   <!-- Acerca del Software -->
