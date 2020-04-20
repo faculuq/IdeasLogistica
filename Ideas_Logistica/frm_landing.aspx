@@ -93,7 +93,7 @@
 				
 
 				<div class="flex-w size1 p-b-47">
-				<div class="flex-col size2">
+				<div class="flex-col size2" style="padding: 20px;">
 					<a id="volver_inicio" href="frm_inicio.aspx"><img src="img/isologotipoblanco.png" style="width: 110px; height: 45px;""></a>
 				</div>
 			</div>
@@ -105,7 +105,7 @@
 
 					
 
-					<div class="flex-col size2">
+					<div class="flex-col size2" style="padding: 20px;">
 						<span class="txt1 p-b-20">
 							Ideas Logística es una herramienta de software que permite planificar,
 							 administrar y controlar todas las etapas en el ciclo de vida de un pedido,

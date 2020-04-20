@@ -57,9 +57,9 @@
 <header id="Inicio" class="masthead">
   <div class="container h-100">
     <div class="h-100 align-items-center justify-content-center text-center">
-      <h1 class="text-white"> Bienvenidos a </h1>
-      <h1 class="text-white" >Ideas Logística</h1><br>
-      <p class="mb-5"style="color:white;text-align: center; font-size: 20px; ">La herramienta que permite la gestión profesional del transporte.</p>
+      <h1 class="text-white"></h1>
+      <h1 class="text-white" ></h1><br>
+      <p class="mb-5"style="color:white;text-align: center; font-size: 20px; ">.</p>
 
       </div>
       <!-- <div class="col-lg-8 align-self-baseline"> -->
@@ -145,7 +145,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left; color: black;">TRANSPORTE</h3>
+            <h3 style="text-align: left; color: #642464;">TRANSPORTE</h3>
           </h4>
           	<p class="text-faded mb-0" style="text-align: left;">- Empresas de Transportes (Propias y de terceros).</p>
           	<br>
@@ -159,7 +159,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">CLIENTES</h3>
+            <h3 style="text-align: left; color: #642464;">CLIENTES</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Registro de Clientes, datos fiscales y de contacto para el envío de información desde la plataforma.</p>
           	<br>
@@ -171,7 +171,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">TARIFAS</h3>
+            <h3 style="text-align: left; color: #642464;">TARIFAS</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Administración de tarifas y cuadro tarifario por distancia o por zonas.</p>
           	<br>
@@ -183,7 +183,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">HOJAS DE RUTA Y ORDENES DE CARGA</h3>
+            <h3 style="text-align: left; color: #642464;">HOJAS DE RUTA Y ORDENES DE CARGA</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Confección de hojas de ruta para múltiples clientes con múltiples puntos de descarga.</p>
           	<br>
@@ -197,7 +197,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">LISTAS DE UNIDADES Y TURNERO</h3>
+            <h3 style="text-align: left; color: #642464;">LISTAS DE UNIDADES Y TURNERO</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Listas de Unidades (Confección de listas de unidades de acuerdo a la necesidad de la empresa) para generar el orden de los mismos ya sea por orden de llegada, cantidad de viajes, etc.</p>
           	<br>
@@ -205,7 +205,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">ORDENES DE COMPRA</h3>
+            <h3 style="text-align: left; color: #642464;">ORDENES DE COMPRA</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Proveedores, datos fiscales y de contacto para el envío de información desde la plataforma.</p>
           	<br>
@@ -215,7 +215,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">PRODUCTOS</h3>
+            <h3 style="text-align: left; color: #642464;">PRODUCTOS</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Gestión de ítems, productos y servicios para la elaboración de las hojas de ruta y órdenes de carga.</p>
           	<br>
@@ -225,7 +225,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">LIQUIDACIÓN Y FACTURACIÓN</h3>
+            <h3 style="text-align: left; color: #642464;">LIQUIDACIÓN Y FACTURACIÓN</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Módulo para la liquidación de los viajes y posterior facturación.</p>
           	<br>
@@ -233,7 +233,7 @@
 
         <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
           <h4>
-            <h3 style="text-align: left;">REPORTES, LISTADOS Y ESTADISTICAS</h3>
+            <h3 style="text-align: left; color: #642464;">REPORTES, LISTADOS Y ESTADISTICAS</h3>
           </h4>
           <p class="text-faded mb-0" style="text-align: left;">- Nuestra plataforma brinda reportes en tiempo real, informes y estadísticas de todos los movimientos del sistema.</p>
           	<br>
