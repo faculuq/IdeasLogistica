@@ -42,38 +42,29 @@
 
 				<!-- <label class="label-input100" for="first-name">Tell us your name *</label> -->
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="Completá con tu nombre.">
-					<%--<input id="txtNombre" runat="server" class="input100" type="text" name="first-name" placeholder="Nombre *">--%>
+                    <%--<input id="txtNombre" runat="server" class="input100" type="text" name="first-name" placeholder="Nombre *">--%>
                     <asp:TextBox id="txtNombre" runat="server" class="input100" type="text" name="first-name" placeholder="Nombre *"></asp:TextBox>
 					<span class="focus-input100"></span>
 				</div>
 				<div class="wrap-input100 rs2-wrap-input100 validate-input" data-validate="Completá con tu apellido.">
-					<%--<input id="txtApellido" runat="server" class="input100" type="text" name="last-name" placeholder="Apellido *">--%>
+                    <%--<input id="txtApellido" runat="server" class="input100" type="text" name="last-name" placeholder="Apellido *">--%>
                     <asp:TextBox id="txtApellido" runat="server" class="input100" type="text" name="last-name" placeholder="Apellido *"></asp:TextBox>
 					<span class="focus-input100"></span>
 				</div>
 
 				<!-- <label class="label-input100" for="email">Enter your email *</label> -->
 				<div class="wrap-input100 validate-input" data-validate = "Ingresá un email válido.">
-					<%--<input id="txtEmail" runat="server" class="input100" type="text" name="email" placeholder="Email * ejemplo@email.com">--%>
+                    <%--<input id="txtEmail" runat="server" class="input100" type="text" name="email" placeholder="Email * ejemplo@email.com">--%>
                     <asp:TextBox id="txtEmail" runat="server" class="input100" type="text" name="email" placeholder="Email * ejemplo@email.com"></asp:TextBox>
 					<span class="focus-input100"></span>
 				</div>
 
 				<!-- <label class="label-input100" for="phone">Enter phone number</label> -->
 				<div class="wrap-input100 validate-input" data-validate = "Completá con tu teléfono.">
-					<%--<input id="txtTelefono" runat="server" class="input100" type="text" name="phone" placeholder="Teléfono ej: (011) 5555-1111">--%>
+                    <%--<input id="txtTelefono" runat="server" class="input100" type="text" name="phone" placeholder="Teléfono ej: (011) 5555-1111">--%>
                     <asp:TextBox id="txtTelefono" runat="server" class="input100" type="text" name="phone" placeholder="Teléfono ej: (011) 5555-1111"></asp:TextBox>
 					<span class="focus-input100"></span>
 				</div>
-
-				<div class="wrap-input100 validate-input" data-validate = "Seleccioná el asunto de tu mensaje.">
-                    <select id="cbo_asunto" runat="server" class="input100" type="text" placeholder="Asunto.">
-                        <option>Consulta.</option>
-						<option>Mensaje.</option>
-
-                    </select>
-					</div>
-
 
 				<!-- <label class="label-input100" for="message">Message *</label> -->
 				<div class="wrap-input100 validate-input" data-validate = "Escribí tu mensaje.">

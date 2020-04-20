@@ -357,15 +357,27 @@
           </a>
         </div>
 
-        <div class="col-lg-6">
-          <a class="portfolio-item" href="img/sistema app.png" data-lightbox="libreria">
+          <div class="col-lg-6">
+          <a class="portfolio-item" href="img/39024.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/sistema app.png" alt="">
+            <img class="img-fluid" src="img/39024.jpg" alt="">
+          </a>
+        </div>
+
+        <div class="col-lg-12">
+          <a class="portfolio-item" href="img/sistema-app.jpg" data-lightbox="libreria">
+            <span class="caption">
+              <span class="caption-content">
+                <h2></h2>
+                <p class="mb-0"></p>
+              </span>
+            </span>
+            <img class="img-fluid" src="img/sistema-app.jpg" alt="">
           </a>
         </div>
 
