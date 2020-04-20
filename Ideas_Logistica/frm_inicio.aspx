@@ -55,18 +55,7 @@
 
   <!-- Inicio -->
 <header id="Inicio" class="masthead">
-  <div class="container h-100">
-    <div class="h-100 align-items-center justify-content-center text-center">
-      <h1 class="text-white"></h1>
-      <h1 class="text-white" ></h1><br>
-      <p class="mb-5"style="color:white;text-align: center; font-size: 20px; ">.</p>
-
-      </div>
-      <!-- <div class="col-lg-8 align-self-baseline"> -->
-              <!-- <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a> -->
-      <!-- </div> -->
-    </div>
-  </div>
+  
 </header>
 
   <!-- Acerca del Software -->
