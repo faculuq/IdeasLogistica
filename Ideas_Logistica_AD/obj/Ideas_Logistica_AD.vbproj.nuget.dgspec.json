@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+
     "C:\\Users\\usuario\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\obj\\",
+
+    "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
+        "projectName": "Ideas_Logistica_AD",
+        "projectPath": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
+        "packagesPath": "C:\\Users\\facul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\IdeasLogistica\\Ideas_Logistica_AD\\obj\\",
+
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\facul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -59,7 +73,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
