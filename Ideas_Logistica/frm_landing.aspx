@@ -31,6 +31,18 @@
 	<link rel="stylesheet" type="text/css" href="Contacto/css/util.css">
 	<link rel="stylesheet" type="text/css" href="Contacto/css/main.css">
 <!--===============================================================================================-->
+
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+	<script>
+        function alerta() {
+            Swal.fire(
+                '!Muchas gracias!',
+                'Tu mensaje se envió correctamente',
+                'success'
+            )
+        }
+	</script>
+
 </head>
 <body>
     <div class="container-contact100">

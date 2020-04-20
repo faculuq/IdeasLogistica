@@ -6,7 +6,9 @@ Public Class frm_landing
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-
+        If Page.IsPostBack = False Then
+            Limpiar()
+        End If
     End Sub
 
 #Region "Enviar Mail"
@@ -43,10 +45,22 @@ Public Class frm_landing
 
         If txtNombre.Text <> Nothing And txtApellido.Text <> Nothing And txtEmail.Text <> Nothing And txtTelefono.Text <> Nothing And txtMensaje.Value <> Nothing Then
             oMensaje.Agregar(txtNombre.Text, txtApellido.Text, txtEmail.Text, txtTelefono.Text, txtMensaje.Value)
-
-            SendMail(txtNombre.Text, txtApellido.Text, txtEmail.Text, txtTelefono.Text, txtMensaje.InnerText)
+            SendMail(txtNombre.Text, txtApellido.Text, txtEmail.Text, txtTelefono.Text, txtMensaje.Value)
+            ScriptManager.RegisterClientScriptBlock(Me, GetType(String), "mensaje", "alerta()", True)
+            Limpiar()
         End If
 
+    End Sub
+#End Region
+
+#Region "Limpiar"
+
+    Private Sub Limpiar()
+        txtApellido.Text = Nothing
+        txtEmail.Text = Nothing
+        txtMensaje.Value = Nothing
+        txtNombre.Text = Nothing
+        txtTelefono.Text = Nothing
     End Sub
 #End Region
 End Class
