@@ -293,79 +293,79 @@
     <div class="container wow rollIn">
       <div class="content-section-heading text-center">
         <h3 class="text-secondary mb-0"></h3>
-        <h2 class="mb-5" style="font-size: 35px">GALERIA</h2>
+        <h2 class="mb-5" style="font-size: 35px">GALERÍA</h2>
         <hr style="margin-top: -35px">
       </div>
       <div class="row no-gutters">
         <div class="col-lg-6">
-          <a class="portfolio-item" href="img/58.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria1.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/58.jpg" alt="">
+            <img class="img-fluid" src="img/galeria1.jpg" alt="">
           </a>
         </div>
 
         <div class="col-lg-6">
-          <a class="portfolio-item" href="img/661.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria2.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/661.jpg" alt="">
+            <img class="img-fluid" src="img/galeria2.jpg" alt="">
           </a>
         </div>
 
         <div class="col-lg-6">
-          <a class="portfolio-item" href="img/705.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria3.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/705.jpg" alt="">
+            <img class="img-fluid" src="img/galeria3.jpg" alt="">
           </a>
         </div>
 
         <div class="col-lg-6">
-          <a class="portfolio-item" href="img/17316.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria4.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/17316.jpg" alt="">
+            <img class="img-fluid" src="img/galeria4.jpg" alt="">
           </a>
         </div>
 
         <div class="col-lg-6">
-          <a class="portfolio-item" href="img/3902.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria5.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/3902.jpg" alt="">
+            <img class="img-fluid" src="img/galeria5.jpg" alt="">
           </a>
         </div>
 
           <div class="col-lg-6">
-          <a class="portfolio-item" href="img/39024.jpg" data-lightbox="libreria">
+          <a class="portfolio-item" href="img/galeria6.jpg" data-lightbox="libreria">
             <span class="caption">
               <span class="caption-content">
                 <h2></h2>
                 <p class="mb-0"></p>
               </span>
             </span>
-            <img class="img-fluid" src="img/39024.jpg" alt="">
+            <img class="img-fluid" src="img/galeria6.jpg" alt="">
           </a>
         </div>
 

@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Creative v6.0.0 (https://startbootstrap.com/themes/creative)
 * Copyright 2013-2020 Start Bootstrap
@@ -10070,7 +10070,7 @@ hr.light {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada home.png");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/inicio.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
