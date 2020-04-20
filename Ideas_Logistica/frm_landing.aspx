@@ -66,6 +66,15 @@
 					<span class="focus-input100"></span>
 				</div>
 
+				<div class="wrap-input100 validate-input" data-validate = "Seleccioná el asunto de tu mensaje.">
+                    <select id="cbo_asunto" runat="server" class="input100" type="text" placeholder="Asunto.">
+                        <option>Consulta.</option>
+						<option>Mensaje.</option>
+
+                    </select>
+					</div>
+
+
 				<!-- <label class="label-input100" for="message">Message *</label> -->
 				<div class="wrap-input100 validate-input" data-validate = "Escribí tu mensaje.">
 					<textarea id="txtMensaje" runat="server" class="input100" name="message" placeholder="Escribinos un mensaje *"></textarea>

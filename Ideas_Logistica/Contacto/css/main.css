@@ -305,13 +305,13 @@ iframe {
 
 .input100 {
   display: block;
-  width: 100%;
   background: transparent;
   font-family: Lato-Regular;
   font-size: 18px;
   color: #666666;
   line-height: 1.2;
   padding: 0 25px;
+    height: 55px;
 }
 
 input.input100 {
@@ -323,6 +323,17 @@ textarea.input100 {
   min-height: 139px;
   padding-top: 19px;
   padding-bottom: 15px;
+}
+
+select.input100 {
+    display: block;
+    background: transparent;
+    font-family: Lato-Regular;
+    font-size: 18px;
+    color: #666666;
+    line-height: 1.2;
+    padding: 0 25px;
+    height: 55px;
 }
 
 /*---------------------------------------------*/
