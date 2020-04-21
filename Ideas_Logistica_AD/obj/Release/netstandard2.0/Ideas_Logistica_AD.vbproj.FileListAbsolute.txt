@@ -1,0 +1,15 @@
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Ideas_Logistica_AD.deps.json
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Ideas_Logistica_AD.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Ideas_Logistica_AD.pdb
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Microsoft.Practices.ServiceLocation.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Microsoft.Practices.Unity.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\bin\Release\netstandard2.0\Microsoft.Practices.Unity.Interception.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.vbprojAssemblyReference.cache
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.vbproj.CoreCompileInputs.cache
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.AssemblyInfoInputs.cache
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.AssemblyInfo.vb
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.vbproj.CopyComplete
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.dll
+C:\Users\facul\OneDrive\Documents\GitHub\IdeasLogistica\Ideas_Logistica_AD\obj\Release\netstandard2.0\Ideas_Logistica_AD.pdb
