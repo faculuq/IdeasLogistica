@@ -5,7 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<meta name="viewport" content="width= 300px"/>
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
+<meta name="description" content="">
+<meta name="author" content="">
+
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="css/inicio.css">
 
